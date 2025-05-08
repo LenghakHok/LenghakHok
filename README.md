@@ -24,7 +24,7 @@
     </td>
     </tr>
     <tr>
-      <td width="33%" align="center">
+      <td width="50%" align="center">
         <!-- GitHub Streak -->
         <a href="https://git.io/streak-stats">
           <picture>
@@ -33,9 +33,12 @@
           <picture>
           </a>
       </td>
-      <td width="33%" align="center">
+      <td width="47.5%" align="center">
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=LenghakHok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" width="100%" alt="stats graph" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LenghakHok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-dark&locale=en&hide_border=true&order=1&border_radius=0" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api?username=LenghakHok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-light&locale=en&hide_border=true&order=1&border_radius=0" width="100%" alt="stats graph" />
+        </picture>
       </td>
     </tr>
     <tr>
