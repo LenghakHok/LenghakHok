@@ -5,7 +5,7 @@
   <!-- Main Stats Table -->
   <table width="100%">
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="1" align="center">
         <!-- User Stats Dashboard -->
         <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125646707" target="_blank" style="display: block" width="100%" align="center">
           <picture>
@@ -14,17 +14,14 @@
           </picture>
         </a>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Last 28 Days Stats -->
-        <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" width="100%" align="center">
+      <td colspan="1" align="center">
+        <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=125646707&activity_type=all" target="_blank" style="display: block" width="100%" align="center">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="100%" height="auto">
-            <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="100%" height="auto">
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=125646707&activity_type=all&image_size=auto&color_scheme=dark" width="100%" height="auto">
+            <img alt="@LenghakHok's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=125646707&activity_type=all&image_size=auto&color_scheme=light" width="100%" height="auto">
           </picture>
         </a>
-      </td>
+    </td>
     </tr>
     <tr>
       <td width="33%" align="center">
@@ -46,8 +43,11 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- Trophy -->
-        <img src="https://github-profile-trophy.vercel.app?username=LenghakHok&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
+         <!-- Trophy with dark mode support --> 
+        <picture> 
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=LenghakHok&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="100%">
+          <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app?username=LenghakHok&theme=light&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="100%">
+         </picture>
       </td>
     </tr>
     <tr>
