@@ -1,25 +1,64 @@
 <!-- Profile Header -->
 <div align="center">
-  <!-- Roadmap and Dev Card - Full Width -->
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65310f48b5d7a4eb01e29070?variant=dark&roadmaps=backend%2Cfrontend" alt="roadmap.sh" width="49%" /></a>
-  <a href="https://app.daily.dev/lenghak_dev"><img src="https://api.daily.dev/devcards/v2/25qVKRrvpbLDzb3KO1nEQ.png?type=wide&r=9c9" width="49%" alt="Lenghak Hok's Dev Card"/></a>
-
-  <!-- Stats and Languages Side by Side -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=LenghakHok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LenghakHok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
-
-  <!-- Activity Graph - Full Width -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LenghakHok&radius=16&theme=react&area=true&order=5" width="98%" alt="activity-graph" />
+  <h1>Lenghak Hok</h1>
   
-  <!-- Trophy - Full Width -->
-  <img src="https://github-profile-trophy.vercel.app?username=LenghakHok&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="98%" alt="trophy graph" />
-
-  <!-- Snake Animation - Full Width -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake" src="https://github.com/LenghakHok/LenghakHok/blob/output/github-contribution-grid-snake.svg" width="98%">
-  </picture>
+  <!-- Main Stats Table -->
+  <table width="100%">
+    <tr>
+      <td colspan="2" align="center">
+        <!-- User Stats Dashboard -->
+        <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125646707" target="_blank" style="display: block" width="100%" align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=dark" width="100%" height="auto">
+            <img alt="Dashboard stats of @LenghakHok" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=light" width="100%" height="auto">
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Last 28 Days Stats -->
+        <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" width="100%" align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="100%" height="auto">
+            <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="100%" height="auto">
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <!-- GitHub Streak -->
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=LenghakHok&theme=Dracula" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=LenghakHok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Activity Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LenghakHok&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Trophy -->
+        <img src="https://github-profile-trophy.vercel.app?username=LenghakHok&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" alt="trophy graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Snake Animation -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg">
+          <img alt="Snake" src="https://github.com/LenghakHok/LenghakHok/blob/output/github-contribution-grid-snake.svg" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
