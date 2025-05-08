@@ -5,23 +5,14 @@
   <!-- Main Stats Table -->
   <table width="100%">
     <tr>
-      <td colspan="1" align="center">
-        <!-- User Stats Dashboard -->
-        <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125646707" target="_blank" style="display: block" width="100%" align="center">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=dark" width="100%" height="auto">
-            <img alt="Dashboard stats of @LenghakHok" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=light" width="100%" height="auto">
-          </picture>
-        </a>
+      <td colspan="2" align="center">
+       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=125646707" target="_blank" style="display: block" align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=dark" width="100%" height="auto">
+    <img alt="Dashboard stats of @LenghakHok" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=125646707&image_size=auto&color_scheme=light" width="100%" height="auto">
+  </picture>
+</a>
       </td>
-      <td colspan="1" align="center">
-        <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=125646707&activity_type=all" target="_blank" style="display: block" width="100%" align="center">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=125646707&activity_type=all&image_size=auto&color_scheme=dark" width="100%" height="auto">
-            <img alt="@LenghakHok's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=125646707&activity_type=all&image_size=auto&color_scheme=light" width="100%" height="auto">
-          </picture>
-        </a>
-    </td>
     </tr>
     <tr>
       <td width="50%" align="center">
