@@ -27,7 +27,7 @@
       <td width="33%" align="center">
         <!-- GitHub Streak -->
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=LenghakHok&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%" />
+            <img src="https://streak-stats.demolab.com/?user=LenghakHok&theme=transparent&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" width="100%"/>
         </a>
       </td>
       <td width="33%" align="center">
