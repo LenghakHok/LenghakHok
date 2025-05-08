@@ -41,7 +41,7 @@
     <tr>
       <td colspan="2" align="center">
         <!-- Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LenghakHok&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LenghakHok&radius=16&bg_color=00000000&theme=github-compact&area=true&order=5&hide_border=true" width="100%" alt="activity-graph" />
       </td>
     </tr>
     <tr>
