@@ -28,7 +28,8 @@
         <!-- GitHub Streak -->
         <a href="https://git.io/streak-stats">
           <picture>
-            <img src="https://streak-stats.demolab.com?user=LenghakHok&hide_border=true&border_radius=0&short_numbers=true&theme=transparent" alt="GitHub Streak" width="100%" height="auto"/>
+            <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LenghakHok&theme=github-dark&hide_border=true&border_radius=0&short_numbers=true" width="100%">
+            <img src="https://streak-stats.demolab.com?user=LenghakHok&theme=github-light&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" width="100%" height="auto"/>
           <picture>
           </a>
       </td>
