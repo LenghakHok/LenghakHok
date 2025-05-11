@@ -1,7 +1,5 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Lenghak Hok</h1>
-  
   <!-- Main Stats Table -->
   <table width="100%">
     <tr>
